@@ -1,10 +1,16 @@
 # SuperMarket-Analysis
+
 Highlights:
 🔹The customer base is fairly balanced between genders. Additionally, the data shows that 45% of customers are members, while 55% are Normal.
+
 🔹"E-Wallet" is the most favored payment option among normal customers, while members show a strong preference for using “credit cards”
+
 🔹we found that Naypyitaw is the highest-performing city in terms of sales.
+
 🔹The highest average sales occur around 7 PM, with sales approaching close to 380 units.
+
 🔹Home and Lifestyle shows the highest quantity sold in the Second Shift (202 units)
+
 🔹Total Sales: 315.88K, Quantity Sold: 5355 Units, The highest Rate: 10 and Total Orders: 975
 
 Process Overview:
