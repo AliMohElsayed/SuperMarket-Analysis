@@ -32,3 +32,6 @@ Process Overview:
 
 🔹Offer unique perks for members, such as special discounts, early access to sales, and member-only events.
 
+
+![Dashboard](https://github.com/user-attachments/assets/9d06a84b-79ba-4417-bfb8-a94850caf52c)
+
